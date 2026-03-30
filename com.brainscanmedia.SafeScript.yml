@@ -7,7 +7,7 @@ finish-args:
   - --share=ipc
   - --socket=x11
   - --socket=wayland
-  - --filesystem=home
+  - --filesystem=xdg-data
   - --device=dri
 modules:
   - name: SafeScript
