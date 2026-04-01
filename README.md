@@ -61,7 +61,7 @@ This repository contains the Flatpak manifest used to build and distribute SafeS
 
 ## Developer
 BrainScanMedia.com, Inc.
-[https://brainscanmedia.com](https://brainscanmedia.com)
+[https://www.brainscanmedia.com](https://www.brainscanmedia.com)
 
 ## License
 MIT — © BrainScanMedia.com, Inc.
